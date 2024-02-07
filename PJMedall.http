@@ -1,0 +1,6 @@
+@PJMedall_HostAddress = http://localhost:5241
+
+GET {{PJMedall_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
