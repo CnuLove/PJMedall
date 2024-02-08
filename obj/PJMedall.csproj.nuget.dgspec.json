@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\Learn\\PJMedall\\PJMedall.csproj": {}
+    "D:\\2024\\Learn\\Git Project\\PJMedall\\PJMedall.csproj": {}
   },
   "projects": {
-    "D:\\Code\\Learn\\PJMedall\\PJMedall.csproj": {
+    "D:\\2024\\Learn\\Git Project\\PJMedall\\PJMedall.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\Learn\\PJMedall\\PJMedall.csproj",
+        "projectUniqueName": "D:\\2024\\Learn\\Git Project\\PJMedall\\PJMedall.csproj",
         "projectName": "PJMedall",
-        "projectPath": "D:\\Code\\Learn\\PJMedall\\PJMedall.csproj",
-        "packagesPath": "C:\\Users\\91848\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\Learn\\PJMedall\\obj\\",
+        "projectPath": "D:\\2024\\Learn\\Git Project\\PJMedall\\PJMedall.csproj",
+        "packagesPath": "C:\\Users\\k.seenuvasan\\.nuget\\packages\\",
+        "outputPath": "D:\\2024\\Learn\\Git Project\\PJMedall\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\91848\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\k.seenuvasan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

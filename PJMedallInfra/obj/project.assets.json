@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\91848\\.nuget\\packages\\": {}
+    "C:\\Users\\k.seenuvasan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code\\Learn\\PJMedall\\PJMedallInfra\\PJMedallInfra.csproj",
+      "projectUniqueName": "d:\\2024\\Learn\\Git Project\\PJMedall\\PJMedallInfra\\PJMedallInfra.csproj",
       "projectName": "PJMedallInfra",
-      "projectPath": "D:\\Code\\Learn\\PJMedall\\PJMedallInfra\\PJMedallInfra.csproj",
-      "packagesPath": "C:\\Users\\91848\\.nuget\\packages\\",
-      "outputPath": "D:\\Code\\Learn\\PJMedall\\PJMedallInfra\\obj\\",
+      "projectPath": "d:\\2024\\Learn\\Git Project\\PJMedall\\PJMedallInfra\\PJMedallInfra.csproj",
+      "packagesPath": "C:\\Users\\k.seenuvasan\\.nuget\\packages\\",
+      "outputPath": "d:\\2024\\Learn\\Git Project\\PJMedall\\PJMedallInfra\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\91848\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\k.seenuvasan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

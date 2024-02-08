@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PJMedallInfra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6f8ecb76918b20e847fac610199864a4d3c0b4a")]
 [assembly: System.Reflection.AssemblyProductAttribute("PJMedallInfra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PJMedallInfra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
