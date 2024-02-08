@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "D:\\Code\\Learn\\Git Projects\\PJMedall\\PJMedall.csproj": {}
   },
   "projects": {
@@ -12,9 +13,22 @@
         "projectPath": "D:\\Code\\Learn\\Git Projects\\PJInfra\\PJInfra.csproj",
         "packagesPath": "C:\\Users\\91848\\.nuget\\packages\\",
         "outputPath": "D:\\Code\\Learn\\Git Projects\\PJInfra\\obj\\",
+=======
+    "D:\\2024\\Learn\\Git Project\\PJMedall\\PJMedall.csproj": {}
+  },
+  "projects": {
+    "D:\\2024\\Learn\\Git Project\\PJMedall\\PJMedall.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\2024\\Learn\\Git Project\\PJMedall\\PJMedall.csproj",
+        "projectName": "PJMedall",
+        "projectPath": "D:\\2024\\Learn\\Git Project\\PJMedall\\PJMedall.csproj",
+        "packagesPath": "C:\\Users\\k.seenuvasan\\.nuget\\packages\\",
+        "outputPath": "D:\\2024\\Learn\\Git Project\\PJMedall\\obj\\",
+>>>>>>> 59a96a8cb115d6071db54cd588895049a8044a3c
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\91848\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\k.seenuvasan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
